@@ -1,0 +1,7 @@
+github -> clone |-> fit copy folder-clone &&  working folder - untracked
+
+(stage -> mofied files/updated are stored but not commited into git)
+
+1) git clone link
+2) git add text1.txt   (have U-> untracked ||A-> addded to git)
+3) git status (show untracked files if available)
